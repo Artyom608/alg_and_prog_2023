@@ -23,3 +23,4 @@ func main(){
     for _, value := range data{
         fmt.Printf("%d ", value)
     }
+}
