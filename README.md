@@ -1,7 +1,7 @@
 # Алгоритмизация и программирование
 Автор: Бляшко Артём
 
-|[Контест 1](https://contest.yandex.ru/contest/52142/problems/) |  |
+|[Contest 1](https://contest.yandex.ru/contest/52142/problems/) |  |
 | --- | :-: |
 | [1. Приближенное значение Пи](./contest_01/01/main.cpp) | ![](./img/cpp.png) |
 | [2. Кислород](./contest_01/02/main.go) |  ![](./img/go.png) |
@@ -23,7 +23,7 @@
 | [20. Анаграмма. 2 числа](./contest_01/20/main.cpp) | ![](./img/cpp.png) |
 
 
-|[Контест 2](https://contest.yandex.ru/contest/52676/problems/) |  |
+|[Contest 2](https://contest.yandex.ru/contest/52676/problems/) |  |
 | --- | :-: |
 | [1. Функция. Простое число](./contest_02/01/main.cpp) | ![](./img/cpp.png) |
 | [2. Функция. Выход из лабиринта](./contest_02/02/main.go) |  ![](./img/cpp.png) |
