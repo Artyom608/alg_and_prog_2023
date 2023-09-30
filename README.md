@@ -26,7 +26,7 @@
 |[Contest 2](https://contest.yandex.ru/contest/52676/problems/) |  |
 | --- | :-: |
 | [1. Функция. Простое число](./contest_02/01/main.cpp) | ![](./img/cpp.png) |
-| [2. Функция. Выход из лабиринта](./contest_02/02/main.go) |  ![](./img/cpp.png) |
+| [2. Функция. Выход из лабиринта](./contest_02/02/main.cpp) |  ![](./img/cpp.png) |
 | [3. Функция. Сортировка по количеству единиц](./contest_02/03/main.cpp) | ![](./img/cpp.png) |
 | [4. Функция. Сумма дробей](./contest_02/04/main.cpp) | ![](./img/cpp.png) |
 | [5. Структура. Комплексное число](./contest_02/05/main.cpp) | ![](./img/cpp.png) |
