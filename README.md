@@ -33,3 +33,9 @@
 | [8. Функция. Палиндром с игнорированием](./contest_02/08/main.go) | ![](./img/go.png) |
 | [9. Функция. Счастливый билет](./contest_02/09/main.go) | ![](./img/go.png) |
 | [10. Функция. Сдвиг элементов массива](./contest_02/10/main.go) | ![](./img/go.png) |
+
+
+|[Contest 3](https://contest.yandex.ru/contest/53504/problems/) |  |
+| --- | :-: |
+| [1. Объединить отсортированные последовательности](./contest_03/01/main.cpp) | ![](./img/cpp.png) |
+
