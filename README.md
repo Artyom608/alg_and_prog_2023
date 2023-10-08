@@ -38,4 +38,5 @@
 |[Contest 3](https://contest.yandex.ru/contest/53504/problems/) |  |
 | --- | :-: |
 | [1. Объединить отсортированные последовательности](./contest_03/01/main.cpp) | ![](./img/cpp.png) |
+| [5. Самое частое слово](./contest_03/05/main.cpp) | ![](./img/cpp.png) |
 
