@@ -5,7 +5,7 @@
 using namespace std;
 int main()
 {
-	int count;
+    int count;
     cin>>count;
     map<string, string> maps;
     for(int i = 0; i< count; i++)
