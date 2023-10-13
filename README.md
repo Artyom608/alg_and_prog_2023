@@ -43,7 +43,7 @@
 | [4. Общие слова в последовательностях](./contest_03/04/main.cpp) | ![](./img/cpp.png) |
 | [5. Самое частое слово](./contest_03/05/main.cpp) | ![](./img/cpp.png) |
 | [6. Баланс пользователя](./contest_03/06/main.cpp) | ![](./img/cpp.png) |
-| [8. Уникальное число](./contest_03/08/main.cpp) | ![](./img/go.png) |
+| [8. Уникальное число](./contest_03/08/main.go) | ![](./img/go.png) |
 | [9. Подходящая пара чисел](./contest_03/09/main.go) | ![](./img/go.png) |
 
 
