@@ -48,3 +48,8 @@
 | [9. Подходящая пара чисел](./contest_03/09/main.go) | ![](./img/go.png) |
 
 
+|[Contest 4](https://contest.yandex.ru/contest/54625/problems/) |  |
+| --- | :-: |
+| [1. Количество выполненных заданий](./contest_04/01/main.go) | ![](./img/go.png) |
+| [2. Количество выполненных заданий](./contest_04/02/main.cpp) | ![](./img/cpp.png) |
+
