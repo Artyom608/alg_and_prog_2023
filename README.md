@@ -59,6 +59,11 @@
 | --- | :-: |
 | [1. Get a cat](./contest_05/01/main.cpp) | ![](./img/cpp.png) |
 | [2. Класс. Чайник](./contest_05/02/main.cpp) | ![](./img/cpp.png) |
+| [3. Класс. Комплексное число](./contest_05/03/main.cpp) | ![](./img/cpp.png) |
 | [4. Класс. Point](./contest_05/04/main.cpp) | ![](./img/cpp.png) |
 | [6. Get a cat](./contest_05/06/main.go) | ![](./img/go.png) |
+| [7. Класс. Чайник](./contest_05/07/main.go) | ![](./img/go.png) |
 
+
+|[Contest 6](https://contest.yandex.ru/contest/55918/problems/) |  |
+| [1. Класс. Shape](./contest_06/01/main.cpp) | ![](./img/cpp.png) |
