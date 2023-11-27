@@ -68,3 +68,4 @@
 |[Contest 6](https://contest.yandex.ru/contest/55918/problems/) |  |
 | --- | :-: |
 | [1. Класс. Shape](./contest_06/01/main.cpp) | ![](./img/cpp.png) |
+| [2. Класс. Менеджер](./contest_06/02/main.cpp) | ![](./img/cpp.png) |
