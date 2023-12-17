@@ -76,7 +76,7 @@
 | [1. Класс. RunnableСlock](./contest_07/01/main.cpp) | ![](./img/cpp.png) |
 
 
-|[Contest 7](https://contest.yandex.ru/contest/56824/problems/) |  |
+|[Contest 8](https://contest.yandex.ru/contest/57296/problems/) |  |
 | --- | :-: |
 | [1. Никаких секретов](./contest_08/01/main.cpp) | ![](./img/cpp.png) |
 | [3. 1D массив + функции](./contest_08/03/main.cpp) | ![](./img/cpp.png) |
