@@ -85,6 +85,6 @@
 | [6. Класс Any](./contest_08/06/main.cpp) | ![](./img/cpp.png) |
 | [7. Адаптер функций](./contest_08/07/main.cpp) | ![](./img/cpp.png) |
 | [10. Какой тип](./contest_08/10/main.go) | ![](./img/go.png) |
-| [11. Класс. Матрица](./contest_08/11/main.go) | ![](./img/.png) |
+| [11. Класс. Матрица](./contest_08/11/main.go) | ![](./img/go.png) |
 | [12. Класс. Стек](./contest_08/12/main.go) | ![](./img/go.png) |
 | [15. Бинарное дерево поиска](./contest_08/15/main.go) | ![](./img/go.png) |
