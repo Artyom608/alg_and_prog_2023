@@ -79,4 +79,12 @@
 |[Contest 8](https://contest.yandex.ru/contest/57296/problems/) |  |
 | --- | :-: |
 | [1. Никаких секретов](./contest_08/01/main.cpp) | ![](./img/cpp.png) |
+| [2. Уроборос](./contest_08/02/main.cpp) | ![](./img/cpp.png) |
 | [3. 1D массив + функции](./contest_08/03/main.cpp) | ![](./img/cpp.png) |
+| [5. IntSharedPointer](./contest_08/05/main.cpp) | ![](./img/cpp.png) |
+| [6. Класс Any](./contest_08/06/main.cpp) | ![](./img/cpp.png) |
+| [7. ](./contest_08/07/main.cpp) | ![](./img/cpp.png) |
+| [10. Какой тип](./contest_08/10/main.go) | ![](./img/go.png) |
+| [11. Класс. Матрица](./contest_08/11/main.go) | ![](./img/.png) |
+| [12. Класс. Стек](./contest_08/12/main.go) | ![](./img/go.png) |
+| [15. Бинарное дерево поиска](./contest_08/15/main.go) | ![](./img/go.png) |
